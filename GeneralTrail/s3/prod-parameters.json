@@ -1,0 +1,20 @@
+{
+    "Parameters": [
+        {
+            "ParameterKey": "SystemName",
+            "ParameterValue": "GeneralTrail"
+        },
+        {
+            "ParameterKey": "EnvType",
+            "ParameterValue": "prod"
+        },
+        {
+            "ParameterKey": "CloudTrailBucketName",
+            "ParameterValue": "generaltrail-prod-cloud-trail-s3-bucket"
+        },
+        {
+            "ParameterKey": "ExpirationInDays",
+            "ParameterValue": "365"
+        }
+    ]
+}
