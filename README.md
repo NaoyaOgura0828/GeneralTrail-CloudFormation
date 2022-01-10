@@ -1,5 +1,5 @@
 # GeneralTrail-CloudFormation
-`GeneralTrail-CloudFormation`は`AWS CloudFormation`を利用したInfrastructure as Codeで証跡を通知する環境を構築する。
+`GeneralTrail-CloudFormation`は`AWS CloudFormation`を利用したInfrastructure as Codeでログ記録環境を構築する。
 
 
 # Requirement
